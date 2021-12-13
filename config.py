@@ -1,0 +1,5 @@
+API_ID = 8387729
+API_HASH = "86025c7a225fd31bfa71b226d7478a3c"
+BOT_TOKEN = "5069573475:AAEgYSylaCyt690ep0r19zkzUarsZhfwqmA"
+DATABASE_URL = "postgres://iprujspafaxbks:d39d8d942e271f83cc47d9336171d66b27ecd6e080b2dd4df6598e5a8b809ae1@ec2-44-193-111-218.compute-1.amazonaws.com:5432/d28qa9335ff4vn"
+OWNER_ID = 1441286617
